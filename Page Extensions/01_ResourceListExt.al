@@ -1,4 +1,4 @@
-pageextension 123456701 CSD "ResourceListExt" extends "ResourceList"
+pageextension 123456701 "CSD ResourceListExt" extends "Resource List"
 // CSD1.00 - 2018-01-01 - D. E. Veloper
 {
     layout
