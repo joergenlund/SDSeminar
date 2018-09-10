@@ -12,13 +12,13 @@
   "url": "",
   "logo": "",
   "capabilities": [],
-  "dependencies": [{}],
+  "dependencies": [],
   "screenshots": [],
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
   "showMyCode": true,
   "features": "TranslationFile",
-  "target": "internal",
+  "target": "Internal",
   "idRange": {
     "from": 123456700,
     "to": 123456799
